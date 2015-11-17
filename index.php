@@ -122,7 +122,7 @@ if(g == b3){
 <div class="container">
 <div class="btn-group btn-group-justified" role="group">
   <div class="btn-group" role="group">
-    <h5>PT Media Andalan Nusa, PT DNS TV <a href="login.php"><span class="label label-default pull-right" role="button">Login</span> </a></h5>
+    <h5>PT Media Andalan Nusa, PT DENS TV <a href="login.php"><span class="label label-default pull-right" role="button">Login</span> </a></h5>
     
 </button>
   </div>
